@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PCC</string>
+    <string name="NewStudentUndeclared">Undeclared</string>
+    <string name="cancel">BACK</string>
+    <string name="select">SELECT</string>
+</resources>
